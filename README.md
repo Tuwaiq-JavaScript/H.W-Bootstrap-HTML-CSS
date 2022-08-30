@@ -1,5 +1,5 @@
 # H.W-Bootstrap-HTML-CSS
-#Screenshot:
+# Screenshot:
 
 ![Bootstrap HW - Google Chrome 8_30_2022 8_45_22 PM](https://user-images.githubusercontent.com/109069188/187508039-03df4aee-c644-4a15-9b8c-978419526b20.png)
 
