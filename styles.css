@@ -1,0 +1,21 @@
+.c{
+    color: rgb(163, 163, 163);
+    
+}
+.fakeimage {
+    height: 12rem;
+    background: #aaa;
+  }
+  .c:hover{
+    color:white;
+    }
+    .header-footer {
+        padding: 4rem 1rem;
+        margin-bottom: 2rem;
+        background-color: #e9ecef;
+        border-radius: .3rem;
+      }
+
+      a{
+        padding-left: 1rem;
+      }
