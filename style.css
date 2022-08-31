@@ -1,0 +1,15 @@
+.jumbotron {
+
+
+    padding-top: 4rem;
+    padding-right: 2rem;
+    padding-bottom: 4rem;
+    padding-left: 2rem;
+    background-color: #e9ecef;
+}
+
+
+.fakeimg{
+    height: 200px;
+    background: #aaa;
+}
